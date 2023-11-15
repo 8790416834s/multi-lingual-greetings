@@ -1,0 +1,22 @@
+.list-item {
+  display: flex;
+  margin: 30px;
+}
+.inactive-tab {
+  border: 1px solid #db1c48;
+  border-radius: 10px;
+  background-color: #ffffff;
+  color: #db1c48;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding: 5px;
+}
+.active-tab {
+  background-color: #db1c48;
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-weight: bold;
+  padding: 5px;
+  border: 1px solid #db1c48;
+  border-radius: 10px;
+}

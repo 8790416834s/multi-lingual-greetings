@@ -1,0 +1,7 @@
+.greeting-image {
+  height: 200px;
+  width: 200px;
+}
+.greeting-item {
+  display: flex;
+}
